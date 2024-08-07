@@ -145,7 +145,7 @@ This is a Node.js application for a Hall Booking System. The API allows users to
    
 
 4. **Access the API**:
-   The server will be running at `http://localhost:3000`.
+   The server will be running at `https://hall-booking-api-9fms.onrender.com`.
 
 ## API Documentation
 
